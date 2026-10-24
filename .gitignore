@@ -1,0 +1,15 @@
+# Unity
+My project/Library/
+My project/Temp/
+My project/Logs/
+My project/UserSettings/
+My project/*.slnx
+My project/*.sln
+My project/*.csproj
+
+# Godot
+MysteryForest/.godot/
+*.uid
+*.bak
+*.graphics_bak
+*.graphics_v2_bak
